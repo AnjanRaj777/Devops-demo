@@ -2,3 +2,4 @@ this is git practice with content
 content created using echo
 hello yooo
 hello yoools -ld .ls -ld .
+updating the content 
